@@ -35,4 +35,3 @@ print(f"dream tuition: {DREAM_TUITION}")
 print(f" estimated semester cost: {fall_cost}")
 print(f"scholarship: {SCHOLARSHIP}")
 print(f"cost after scholarship: {after_scholarship}")
-print
