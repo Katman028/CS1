@@ -82,3 +82,9 @@ for i in range(0,4):
 print(names)
 
 #Question 11
+counter = 1
+multiplier = 10
+for i in range(1,7):
+    print(i * counter)
+    counter += multiplier
+    multiplier*=10
