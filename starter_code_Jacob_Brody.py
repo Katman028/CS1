@@ -78,22 +78,7 @@ print(odd_numbers)
 names = ["Alice", "bob", "Charlie", "David"]
 scores = [85,92,78,90]
 new_list = []
-counter = 1
 for i in range(0,4):
-    names.insert(counter,scores[i])
-    counter += 2
 print(names)
 
 #Question 11
-counter = 1
-multiplier = 10
-for i in range(1,7):
-    print(i * counter)
-    counter += multiplier
-    multiplier*=10
-
-
-
-
-
-
