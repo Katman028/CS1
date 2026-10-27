@@ -13,5 +13,8 @@ for key,value in zoo.items():
     print(f"visitors {visitor_counts[counter]}")
     counter += 1
 
+total_visitors = sum(visitor_counts)
+print(f"total visitors {total_visitors}")
+
 
 
