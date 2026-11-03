@@ -77,6 +77,7 @@ while user_choice != 6:
         break
     else:
         print("invalid choice")
+        break
 
 
 
